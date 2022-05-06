@@ -20,9 +20,8 @@ _ Fanta;
 
 
 
-git
 MENU CARNE:
-_Ossobuco e Ragù
+_
 _
 _
 _
@@ -30,7 +29,7 @@ _
 
 
 MENU VEGANO:
-_Mele con caramello
+_
 _
 _
 _
@@ -38,7 +37,7 @@ _
 
 
 MENU PESCE:
-_Calamari Alla griglia
+_
 _
 _
 _
