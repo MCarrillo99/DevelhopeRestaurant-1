@@ -39,7 +39,7 @@ _
 MENU PESCE:
 _Calamari Alla griglia
 _Sorbetto al limone
-_
+_Spaghetti allo scoglio
 _
 _
 _
