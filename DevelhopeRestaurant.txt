@@ -20,7 +20,6 @@ _ Fanta;
 
 
 
-git
 MENU CARNE:
 _Ossobuco e Ragù
 _Pappardelle alla bolognese
